@@ -55,4 +55,5 @@ else {
    d.innerHTML="<p>Lo sentimos, tu dispositivo no admite la geolocaización.</p>";
    }
 }
+
 };
